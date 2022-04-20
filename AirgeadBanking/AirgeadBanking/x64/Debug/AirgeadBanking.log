@@ -1,0 +1,5 @@
+﻿  InvestmentAccount.cpp
+  Source.cpp
+C:\Users\lords\Desktop\CPP_Programs\AirgeadBanking\AirgeadBanking\Source.cpp(34,15): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  AirgeadBanking.vcxproj -> C:\Users\lords\Desktop\CPP_Programs\AirgeadBanking\x64\Debug\AirgeadBanking.exe
